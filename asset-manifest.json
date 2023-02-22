@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-userlist-gd/static/css/main.92cb4b21.css",
+    "main.js": "/react-userlist-gd/static/js/main.6f4e826e.js",
+    "index.html": "/react-userlist-gd/index.html",
+    "main.92cb4b21.css.map": "/react-userlist-gd/static/css/main.92cb4b21.css.map",
+    "main.6f4e826e.js.map": "/react-userlist-gd/static/js/main.6f4e826e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.92cb4b21.css",
+    "static/js/main.6f4e826e.js"
+  ]
+}
